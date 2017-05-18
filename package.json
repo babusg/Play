@@ -1,0 +1,22 @@
+{
+  "name": "codeplay",
+  "version": "1.0.0",
+  "description": "code repository for misc and learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babusg/Play.git"
+  },
+  "keywords": [
+    "play"
+  ],
+  "author": "babusg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babusg/Play/issues"
+  },
+  "homepage": "https://github.com/babusg/Play#readme"
+}
